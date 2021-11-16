@@ -1,2 +1,2 @@
-# comment
-print("hello python & git!!!!")
+# hi, this is a comment
+print("hello python & git!")
